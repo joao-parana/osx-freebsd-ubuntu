@@ -4,7 +4,9 @@ osx-freebsd-ubuntu
 OSX, Free BSD e Ubuntu 
 ----------------------
 
-para clonar este repositório e vizualizar localmente faça:
+Este Wiki é editado no padrão markdown.
+
+Para clonar este repositório e vizualizar localmente faça:
 
     git clone git://github.com/joao-parana/osx-freebsd-ubuntu.git
 
