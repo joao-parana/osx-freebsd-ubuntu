@@ -1,8 +1,10 @@
 osx-freebsd-ubuntu
 ==================
 
-OSX, Free BSD e Ubuntu 
-----------------------
+Pequenos *Snippets* para OSX, Free BSD e Ubuntu 
+-----------------------------------------------
+
+*Snippet* is a programming term for a small region of re-usable source code
 
 Este Wiki é editado no padrão markdown.
 
